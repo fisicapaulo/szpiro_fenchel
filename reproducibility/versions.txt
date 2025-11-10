@@ -1,0 +1,6 @@
+Preencha com:
+- Python:
+- NumPy:
+- SciPy:
+- BLAS/LAPACK:
+- Sistema:

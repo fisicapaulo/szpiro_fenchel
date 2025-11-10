@@ -1,0 +1,1 @@
+Arquitetura: projeção em 1^⊥, L=Π(-Q)Π, whitening por M^{-1/2}, SVD com rcond e métricas (resíduo, ortogonalidade).

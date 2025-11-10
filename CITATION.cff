@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Por favor, cite este repositório ao usá-lo."
+title: "Szpiro–Fenchel: computational experiments in 1^⊥"
+authors:
+  - family-names: "SeuSobrenome"
+    given-names: "SeuNome"
+version: "0.1.0"
+license: "MIT"
