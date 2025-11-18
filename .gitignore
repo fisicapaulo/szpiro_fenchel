@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Dados e artefatos
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+figs/*
+!figs/.gitkeep
+
+# Logs e temporários
+*.log
+*.tmp
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
